@@ -41,12 +41,12 @@ Then I ssh into the machine using the username and password and I was able to fi
 ![](./images/ssh.png)
 
 ```
-then listing all the files I found the user.txt file which has user flag
+listing all the files
 ```
 ![](./images/ls.png)
 
 ```
-Now on running sudo -l I fpund that we could run socat without the password
+Now on running sudo -l I found that we could run socat without the password
 ```
 ![](./images/sudo.png)
 
